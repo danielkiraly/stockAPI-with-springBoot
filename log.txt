@@ -1,0 +1,7 @@
+2019/11/10 19:33:31 Purchased aapl stock at $600.0, since its higher that the current price ($260.0)
+2019/11/10 19:33:39 Purchased aapl stock at $600.0, since its higher that the current price ($260.0)
+2019/11/10 19:33:43 Purchased aapl stock at $400.0, since its higher that the current price ($260.0)
+2019/11/10 19:33:47 Bid for aapl was $100.0 but the stock price is $260.0, no purchase was made.
+2019/11/10 19:34:16 Purchased a stock at $200.0, since its higher that the current price ($76.65)
+2019/11/10 19:34:55 Purchased a stock at $200.0, since its higher that the current price ($76.65)
+2019/11/10 19:34:59 Bid for a was $3.0 but the stock price is $76.65, no purchase was made.
